@@ -1,5 +1,10 @@
+## First step
+```
+npm install
+```
+
 ## Tasks
 ```
-gulp default
-gulp watch 
+gulp default  // Production
+gulp watch    // Development
 ```

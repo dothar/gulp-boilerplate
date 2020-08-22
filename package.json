@@ -8,20 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dothar/wellplayed-site.git"
+    "url": "git+https://github.com/dothar/gulp-boilerplate.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dothar/wellplayed-site/issues"
+    "url": "https://github.com/dothar/gulp-boilerplate/issues"
   },
-  "homepage": "https://github.com/dothar/wellplayed-site#readme",
+  "homepage": "https://github.com/dothar/gulp-boilerplate#readme",
   "dependencies": {
-    "filterizr": "^2.2.4",
-    "jquery": "^3.5.1",
-    "locomotive-scroll": "^3.5.4",
-    "normalize.css": "^8.0.1",
-    "swiper": "^5.4.5"
+    "jQuery": "^1.7.4",
+    "normalize.css": "^8.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
